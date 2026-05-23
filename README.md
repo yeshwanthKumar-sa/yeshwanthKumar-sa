@@ -101,7 +101,6 @@ AI/ML Engineer | NLP Researcher | Data Analytics Enthusiast
 
 ## 🌾 Predictive Crop Analysis using Machine Learning
 - LightGBM predictive recommendation model
-- Achieved 99.32% accuracy
 - Feature engineering & data visualization
 
 🔗 Project:
