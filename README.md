@@ -92,12 +92,14 @@ AI/ML Engineer | NLP Researcher | Data Analytics Enthusiast
 # 📌 Featured Projects
 
 ## 🚗 Multi-Sensor Fusion for Autonomous Vehicle Perception
-- Integrated Camera, LiDAR & Radar data
-- CNN + Transformer architecture
-- Adaptive attention mechanisms
-- Built using PyTorch & OpenCV
 
----
+- Developed a deep learning-based multi-modal perception system integrating Camera, LiDAR, and Radar inputs
+- CNN + Transformer fusion architecture with adaptive cross-modal attention
+- Built using PyTorch, Transformers, Streamlit, FastAPI, and nuScenes dataset
+- IEEE ICTACSE 2026 paper acceptance
+
+🔗 Repository:
+https://github.com/yeshwanthKumar-sa/multi-sensor-fusion
 
 ## 🌾 Predictive Crop Analysis using Machine Learning
 - LightGBM predictive recommendation model
